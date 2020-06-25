@@ -1,0 +1,158 @@
+
+Week 1: 6/14 - 6/20
+	Tue (1-1): 
+	- Topics: Input, Variables, conditional statements 
+	- Exercises: Print intro, conversation w/ computer, object w/ similar color, dog age
+	- Challenges: Outer space weight 
+	
+	Thur (1-2): 
+	- Topics: All about functions! 
+	- Exercises: short functions
+	- Challenges: function_practice.py
+
+Week 2: 6/21 - 6/27
+
+	Mon: 
+	- Topics: Shell/terminal review, control statements, functions!
+	- Exercises: variety of control statement problems
+	- Challenges: play around with Bash_Crawl, control_statements.py
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 3: 6/28 - 7/4
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 4: 7/5 - 7/11
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 5: 7/12 - 7/18
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 6: 7/19 - 7/25
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 7: 7/26 - 8/1
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 8: 7/26 - 8/1
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 9: 7/26 - 8/1
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 10: 8/2 - 8/8
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 11: 8/9 - 8/15
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 12: 8/16 - 8/22
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+Week 13: 8/23 - 8/29
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+	: 
+	- Topics: 
+	- Exercises: 
+	- Challenges: 
+
+(and more as needed)
+
