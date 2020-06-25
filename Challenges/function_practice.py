@@ -1,6 +1,5 @@
 #A collection of short functions to get practice writing! 
 
-#There 
 
 
 #uncomment functions in main() as you work on them! 
@@ -105,7 +104,29 @@ def max(a, b):
 # Problem 3: Problem solving
 #
 
-def 
+# TO DO: Build a house with a slanted roof this time 
+#
+# a house has a floor, 2 walls, and a trianle roof
+# the floor has length "width" and the height is 
+# half of "width" rounded down.
+# ex. a house with width 5
+#   _
+#  ---
+# -----
+# |   |
+# |   |
+# -----    
+# a house with width 6
+#   --
+#  ----
+# ------
+# |    |
+# |    |
+# |    |
+# ------
+# Tip break this down into small steps! Check out control_statements.py for more details on making the roof! 
+def build_house_roof(width):
+    pass 
 
 if __name__ == '__main__':
-	main();
+	main()
